@@ -21,7 +21,7 @@ sur Windows:
 ```pip install -r requirements.txt```
 
 7- Démarrer le programme
-```python bode_plotter.py```
+```python <fichier à exécuter>.py```
 
 ## Documentation
 
