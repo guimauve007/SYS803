@@ -10,7 +10,7 @@ outils développés pour le cours SYS803 (systèmes de mesure) suivi à l'automn
 
 3- Ouvrir le dossier de projet dans l'IDE de son choix (pref -> VSCode)
 
-4- Ouvrir un terminal et créer un environnement virtuel ***À la source du dossier de projet***:
+4- Ouvrir un terminal et créer un environnement virtuel ***à la source du dossier de projet***:
 ```python -m venv env```
 
 5- Activer l'environnement virtuel
