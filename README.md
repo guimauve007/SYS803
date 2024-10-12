@@ -19,3 +19,10 @@ sur Windows:
 
 6- Installer les dépendances du projet
 ```pip install -r requirements.txt```
+
+7- Démarrer le programme
+```python bode_plotter.py```
+
+## Documentation
+
+***SciPy***: https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.bode.html
