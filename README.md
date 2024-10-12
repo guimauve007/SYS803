@@ -5,12 +5,12 @@ outils développés pour le cours SYS803 (systèmes de mesure) suivi à l'automn
 
 1- Installer git et Python sur son ordinateur
 
-2- Cloner ce répertoire:
-```git clone blablabla```
+2- Ouvrir un terminal et cloner ce répertoire:
+```git clone https://github.com/guimauve007/SYS803.git```
 
 3- Ouvrir le dossier de projet dans l'IDE de son choix (pref -> VSCode)
 
-4- Ouvrir un terminal et créer un environnement virtuel ***À la source du dossier de projet***
+4- Ouvrir un terminal et créer un environnement virtuel ***À la source du dossier de projet***:
 ```python -m venv env```
 
 5- Activer l'environnement virtuel
